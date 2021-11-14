@@ -1,0 +1,11 @@
+﻿  main.cpp
+f:\cs 122\pa5\pa5\main.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  data.cpp
+  QueueTESTS.cpp
+f:\cs 122\pa5\pa5\queuetests.cpp(61): warning C4930: 'Data temp(void)': prototyped function not called (was a variable definition intended?)
+f:\cs 122\pa5\pa5\queuetests.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QueueNode.cpp
+  Queue.cpp
+  Generating Code...
+  PA5.vcxproj -> F:\CS 122\PA5\Debug\PA5.exe
+  PA5.vcxproj -> F:\CS 122\PA5\Debug\PA5.pdb (Full PDB)
